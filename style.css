@@ -1,0 +1,13 @@
+body{
+    background-color: #f0f6ff;
+}
+.heading{
+    margin: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+.iconimg{
+    width: 45px;
+    margin-top: 10%;
+}
