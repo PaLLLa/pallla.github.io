@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+.main-block {
+    background-color: #fff;
+    border: 2px solid balck;
+    margin-top: 5px;
+    
+
+}
+
+.main-theme{
+    font-family: 'Playfair Display', serif;
+}
+
+img{
+    margin-top: 40px;
+    width: 300px;
+    margin-left: 40px;
+}
+
+.my-name {
+    margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 500%;
+}
+
+#prof-goals {
+    margin-top: 100px;
+}
+
+.line {
+    display: block;
+    width: 700px;
+    margin-top: 150px;
+}
+
+.left-column{
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+.usual-text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+.usual-text.left{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.line-left{
+    display: block;
+    width: 450px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+}
+
+.right-column{
+    margin-top: 48px;
+}
+
+.usual-text.right{
+    margin-top: 20px;
+}
+
+.name-of.left{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.name-of.right{
+    margin-top: 30px;
+}
+
+.name-of{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 2px;
+}
+
+.prof{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 4px;
+}
+
+.faculty{
+    color: rgb(190, 190, 190);
+    font-size: 150%;
+}
+
+.line-right{
+    display: block;
+    width: 700px;
+    margin-top: 80px;
+}
